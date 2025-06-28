@@ -15,3 +15,5 @@
 11. **Which low-stock products (≤ 2 units) are still on discount?**
 12. **Is there a trend between discount % and quantity sold?**
 13. **What is the total revenue loss (₹ >1000) due to discounting per category?**
+
+**-Dipanshu rawat**
